@@ -1,0 +1,10 @@
+com\xiaotao\sso\controller\LoginController.class
+com\xiaotao\sso\service\RegisterService.class
+com\xiaotao\sso\component\impl\JedisClientSingle.class
+com\xiaotao\sso\service\impl\LoginServiceImpl.class
+com\xiaotao\sso\controller\RegisterController.class
+com\xiaotao\sso\component\impl\JedisClientCluster.class
+com\xiaotao\sso\controller\PageController.class
+com\xiaotao\sso\service\impl\RegisterServiceImpl.class
+com\xiaotao\sso\component\JedisClient.class
+com\xiaotao\sso\service\LoginService.class

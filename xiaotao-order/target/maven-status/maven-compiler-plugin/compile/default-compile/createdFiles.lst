@@ -1,0 +1,7 @@
+com\xiaotao\order\service\OrderService.class
+com\xiaotao\order\component\impl\JedisClientCluster.class
+com\xiaotao\order\controller\OrderController.class
+com\xiaotao\order\service\impl\OrderServiceImpl.class
+com\xiaotao\order\pojo\OrderInfo.class
+com\xiaotao\order\component\impl\JedisClientSingle.class
+com\xiaotao\order\component\JedisClient.class

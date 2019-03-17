@@ -1,0 +1,7 @@
+com\xiaotao\controller\ContentCategoryController.class
+com\xiaotao\controller\ContentController.class
+com\xiaotao\controller\PageController.class
+com\xiaotao\controller\itemCat\TbItemCatController.class
+com\xiaotao\controller\ItemParamController.class
+com\xiaotao\controller\ItemController.class
+com\xiaotao\controller\PictureController.class

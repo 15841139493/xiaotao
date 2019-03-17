@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 4 elements to &apos;xiaotao-portal/src/test/resources&apos;&#x0D;&#x0A;- Original project: &apos;xiaotao-manager&apos;&#x0D;&#x0A;- Destination element: &apos;xiaotao-portal/src/test/resources&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     log4j.properties&#x0D;&#x0A;     properties&#x0D;&#x0A;     spring&#x0D;&#x0A;     mybatis" description="Copy elements" destination="=xiaotao-portal/src\/test\/resources" element1="xiaotao-manager-web/src/main/resources/log4j.properties" element2="xiaotao-manager-web/src/main/resources/properties" element3="xiaotao-manager-web/src/main/resources/spring" element4="xiaotao-manager-web/src/main/resources/mybatis" files="1" flags="589830" folders="3" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1541985619749" units="0" version="1.0"/>
+</session>
